@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/mnt/d/dev/inkbyter",
+            "binaryPath": "/mnt/d/dev/inkbyter/main",
+            "binaryArgs": []
+        }
+    ]
+}
